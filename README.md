@@ -1,8 +1,6 @@
 # Hi there! 👋
 
-My name is Minh, and I'm a Back-End Developer. 
-
-![Your GitHub stats](https://nextjs-portfolio-website-code-v2.vercel.app)
+My name is Minh (Kigaiji), and I'm a Back-End Developer. 
 
 ## 🔧 Technologies & Tools
 
