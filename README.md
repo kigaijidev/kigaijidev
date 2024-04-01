@@ -4,38 +4,15 @@ My name is Minh (Kigaiji), and I'm a Back-End Developer.
 
 ## 🔧 Technologies & Tools
 
-- 🌐 Web Development: Javascript(ECMAScript), Typescript
-- 💼 Backend: Node.js, Express
-- 🛢️ Databases: MySQL, MongoDB
+- 🌐 Web Development: Javascript(ECMAScript), Typescript, PHP
+- 💼 Backend: Node.js, Express, Laravel
+- 🛢️ Databases: MySQL, MongoDB, PostgreSQL
 - ⚙️ DevOps: Docker, Kubernetes
-- 📦 Other: Git, VS Code, Linux
+- 📦 Other: Git, VSCode, Linux
 
 ## 🌱 I'm Currently Learning
 
 Hi there! I'm deeply immersed in the world of backend development and honing my skills with Node.js. Currently, my focus is on two main areas:
-
-### Express.js
-
-I'm delving deep into Express.js to build robust and efficient APIs and web applications. Some of the specific topics I'm exploring include:
-
-- Creating RESTful APIs with Express.
-- Middleware development for request processing.
-- Authentication and authorization strategies.
-- Performance optimization and best practices.
-- Integrating Express with databases like MongoDB and MySQL.
-
-### Nest.js
-
-I'm also excited about mastering Nest.js, a powerful framework for building scalable and maintainable server-side applications. Here's what I'm working on:
-
-- Understanding the Nest.js architecture and its decorators.
-- Building modular and organized code with modules and controllers.
-- Authentication and authorization using Nest.js guards.
-- Real-time communication with WebSockets.
-- Integration with MySQL for flexible APIs.
-
-I'm passionate about backend development and am always eager to connect with fellow developers. If you have any resources, tips, or just want to chat about Express.js, Nest.js, or anything related, feel free to reach out!
-
 
 ## 📫 How to Reach Me
 
